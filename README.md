@@ -5,4 +5,6 @@
 [![steam](https://img.shields.io/badge/-Steam-144c87?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/15307155035)
 ![visit](https://badges.pufler.dev/visits/ss-Zhong/ss-Zhong?label=visits&color=blue)
 
-![Sheng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ss-Zhong&show_icons=true&theme=default)
+<p align="center">
+    <img alt="Sheng's GitHub stats-Light" src="https://github-readme-stats.vercel.app/api?username=ss-Zhong&show_icons=true&theme=default">
+</p>

@@ -1,8 +1,8 @@
 # 👋 Hey! Nice to see you. ✨
 
-## 🧑‍💻 About me
+I’m **Sheng Zhong** 🧑‍💻, currently pursuing a Master’s degree in **Computer Science** at **HUST**. 🎓
 
-I’m **Sheng Zhong**, currently pursuing a Master’s degree in **Computer Science** at **HUST**. My primary research focus is on **Edge Intelligence**. I’m passionate about exploring cutting-edge technologies in artificial intelligence and edge computing, and I’m always eager to learn new things and collaborate with like-minded individuals. 🌱
+My primary research focus is on **Edge Intelligence**. I’m passionate about exploring cutting-edge technologies in artificial intelligence and edge computing, and I’m always eager to learn new things and collaborate with like-minded individuals. 🌱
 
 <p align="center" style="background-color: #fff;">
     <img src="https://img.shields.io/badge/-Contact%20me-fff?style=for-the-badge" />
@@ -12,10 +12,10 @@ I’m **Sheng Zhong**, currently pursuing a Master’s degree in **Computer Scie
     <a href="https://steamcommunity.com/id/15307155035"><img src="https://img.shields.io/badge/-Steam-144c87?style=for-the-badge&logo=Steam&logoColor=white"/></a>
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ss-Zhong&show_icons=true&theme=tokyonight&hide_title=true&hide_border=false&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ss-Zhong&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000" />
 </p>
 
 ---

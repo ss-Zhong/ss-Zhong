@@ -1,4 +1,4 @@
-# 👋 Hey! Nice to see you. ✨
+## 👋 Hey! Nice to see you. ✨
 
 I’m **Sheng Zhong** 🧑‍💻, currently pursuing a Master’s degree in **Computer Science** at **HUST**. 🎓
 
@@ -25,7 +25,7 @@ My primary research focus is on **Edge Intelligence**. I’m passionate about ex
 </p>
 
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/ss-Zhong/ss-Zhong?label=visits&labelColor=91b0fc&color=47bdae" />
+    <img src="https://badges.pufler.dev/visits/ss-Zhong/ss-Zhong?labelColor=91b0fc&color=47bdae" />
     <img src="https://badges.pufler.dev/repos/ss-Zhong?labelColor=91b0fc&color=47bdae" />
     <img src="https://badges.pufler.dev/updated/ss-Zhong/ss-Zhong?labelColor=91b0fc&color=47bdae" />
 </p>

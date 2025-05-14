@@ -4,8 +4,8 @@ I’m **Sheng Zhong** 🧑‍💻, currently pursuing a Master’s degree in **C
 
 My primary research focus is on **Edge Intelligence**. I’m passionate about exploring cutting-edge technologies in artificial intelligence and edge computing, and I’m always eager to learn new things and collaborate with like-minded individuals. 🌱
 
-<p align="center" style="background-color: #fff;">
-    <img src="https://img.shields.io/badge/-Contact%20me-fff?style=for-the-badge" />
+<p align="center">
+    <img src="https://img.shields.io/badge/-Contact%20me-rgba(255, 255, 255, 0)?style=for-the-badge&labelColor=#d5d8dd" />
     <br>
     <a href="https://github.com/ss-Zhong"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white"/></a>
     <a href="mailto:shengzhong@hust.edu.cn"><img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>

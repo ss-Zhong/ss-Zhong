@@ -24,8 +24,8 @@ My primary research focus is on **Edge Intelligence**. I’m passionate about ex
     Thank you for visiting my page, and feel free to reach out to me! 🚀
 </p>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://badges.pufler.dev/visits/ss-Zhong/ss-Zhong?labelColor=91b0fc&color=47bdae" />
     <img src="https://badges.pufler.dev/repos/ss-Zhong?labelColor=91b0fc&color=47bdae" />
     <img src="https://badges.pufler.dev/updated/ss-Zhong/ss-Zhong?labelColor=91b0fc&color=47bdae" />
-</p>
+</p>-->

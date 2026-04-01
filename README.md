@@ -8,8 +8,8 @@ My primary research focus is on **Edge Intelligence**. I’m passionate about ex
     <img src="https://img.shields.io/badge/-Contact%20me-rgba(255, 255, 255, 0)?style=for-the-badge" />
     <br>
     <a href="https://github.com/ss-zhong"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white"/></a>
-    <a href="https://ss-zhong.github.io/"><img src="https://img.shields.io/badge/-Homepage-0A66C2?style=for-the-badge&logo=About.me&logoColor=white"/></a>
     <a href="mailto:shengzhong@hust.edu.cn"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="https://ss-zhong.github.io/"><img src="https://img.shields.io/badge/-Homepage-194f80?style=for-the-badge&logo=Academia&logoColor=white"/></a>
 </p>
 
 <!--<p align="center">
